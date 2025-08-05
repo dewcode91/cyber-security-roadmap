@@ -4,7 +4,7 @@ This roadmap provides a visual and structured guide for progressing through vari
 
 ---
 
-![Cybersecurity Certification Roadmap](image1)
+![Cybersecurity Certification Roadmap](https://github.com/dewcode91/cyber-security-roadmap/blob/main/cyber-security-roadmap.png)
 
 ---
 
